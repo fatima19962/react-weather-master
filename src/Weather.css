@@ -1,5 +1,6 @@
 body {
   font-family: arial, sans-serif;
+  background-color: aquamarine;
 }
 
 h1 {
@@ -38,6 +39,7 @@ input[type="text"] {
 
 .weather-summary {
   padding: 20px 0;
+ 
 }
 
 .weather-summary-header {
@@ -153,6 +155,7 @@ input[type="text"] {
 .day__block-date {
   text-align: center;
 }
+
 .day__block-temps {
   text-align: center;
 }
